@@ -1,7 +1,9 @@
-# Hi, I'm Juan David Montoya Lesmes 👋💻
-<img src="https://github.com/JuanDavid631/JuanDavid631/blob/main/Juan%20David%20Montoya2.png" alt="Banner-Juan_Montoya" height="300" >
+# 👋🏽 Hi there, I'm Juan David Montoya Lesmes 👨‍💻
+<img src="https://github.com/JuanDavid631/JuanDavid631/blob/main/Juan%20David%20Montoya2.png" alt="Banner-Juan_Montoya">
 
-Systems and Computer Engineer graduated from the Catholic University of Colombia. Expert in proposing practical solutions through the use of technologies 🚀. Skills to lead software projects 💻. Quick adaptation to changes and business needs 🔄. Innovative, critical and always researching new tools to achieve business goals 🧠. Skilled in detecting and correcting software and hardware faults 🛠️. Excellent assertive communication and teamwork skills 🤝.
+Systems and Computer Engineer graduated from the Catholic University of Colombia. Expert in proposing practical solutions through the use of technologies 🚀. <br>
+Skills to lead software projects 💻. Quick adaptation to changes and business needs 🔄. Innovative, critical and always researching new tools to achieve business goals 🧠. <br>
+Skilled in detecting and correcting software and hardware faults 🛠️. Excellent assertive communication and teamwork skills 🤝.
 <br>
 
 

@@ -6,7 +6,7 @@ Systems and Computer Engineer graduated from the Catholic University of Colombia
 <br><br>
 
 ## 🔧 Tech Stack
-<table><tr>
+<table align="center"><tr>
 <td valign="top" width="33%">
   
 ### FrontEnd
@@ -16,6 +16,7 @@ Systems and Computer Engineer graduated from the Catholic University of Colombia
     <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
     <br>
     <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>
+    <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" height="50"/> </a>
   </div>
 </td>
 <td valign="top" width="33%">
@@ -24,9 +25,8 @@ Systems and Computer Engineer graduated from the Catholic University of Colombia
   <div align="center">
     <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>
     <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>
-    <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>
-    <br>
     <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>
+    <br>
     <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
   </div>
 </td>
@@ -36,14 +36,27 @@ Systems and Computer Engineer graduated from the Catholic University of Colombia
   <div align="center">  
     <a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" /></a>  
     <a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" /></a>  
-    <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
+    <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>
+    <br>
+  </div>
+</td></tr></table>
+
+<td valign="top" width="40%">
+
+<table align="center"><tr>
+<td valign="top" width="33%">
+
+### DataBase  
+  <div align="center">  
+    <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>
+    <a href="https://www.oracle.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" height="50"/></a>
   </div>
 </td></tr></table>
 <br>
 
 ## ⚒️ Used Tools in my Work
-<table><tr>
-<td valign="top" width="33%">
+<table align="center"><tr>
+<td>
 
 ### QA Engineer
   <div align="center">
@@ -53,6 +66,7 @@ Systems and Computer Engineer graduated from the Catholic University of Colombia
     <br>
     <a href="https://www.soapui.org/" target="_blank"> <img style="margin: 10px" src="https://th.bing.com/th/id/R.18bfea2a1b0c33427a36b2e6a9b196f5?rik=wZ6shfpGsr5deg&riu=http%3a%2f%2ficons.iconarchive.com%2ficons%2fpapirus-team%2fpapirus-apps%2f512%2fsoapui-icon.png&ehk=XUL%2f4Ak0uAob4xsc3VafGr5B0eB91YteEPegEf3%2fQBY%3d&risl=&pid=ImgRaw&r=0" alt="SoapUI" height="50"/></a>
     <a href="https://jmeter.apache.org/" target="_blank"> <img style="margin: 10px" src="https://www.angleritech.com/wp-content/uploads/2017/10/asf-logo.png" alt="Apache JMeter" height="50"/></a>
+    <a href="https://www.cypress.io" target="_blank"> <img style="margin: 10px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="ciprés" height="50"/></a>
   </div>
 </td></tr></table> 
 <br>
@@ -60,27 +74,21 @@ Systems and Computer Engineer graduated from the Catholic University of Colombia
 ## 📈 Some of my stats are:
 ### Top lenguages
 ![JuanDavid631's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanDavid631&hide=contribs,prs,issues\&rank_icon=github&theme=tokyonight)
-
+<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanDavid631&theme=radical)
+<br><br>
 
+## Find me at: 🌎
 
-## Find me around the web 🌎: 
-
+You can contact me If I can help you with something, if you have doubts, suggestions or even if you want to share our knowlegde.
+Also I will share valuable knowlegde for you on:
 <br>
-<br>
-<br>
-<br>
+* <a href="https://www.linkedin.com/in/juan-david-montoya-lesmes-9b4285283/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Juan_Montoya" height="30" width="40" /></a> 
+  &nbsp; &nbsp; &nbsp;
+<a href="https://instagram.com/juandavidmontoyalesmes631" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Juan_Montoya" height="30" width="40" /></a>
 
-<h3 align="left">Talk with me:</h3>
-<p align="left">
-<a href="https://twitter.com/sigmotoa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sigmotoa" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sigmotoa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sigmotoa" height="30" width="40" /></a>
-<a href="https://instagram.com/sigmotoa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sigmotoa" height="30" width="40" /></a>
-<a href="https://www.twitch.tv/sigmotoa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitch.svg" alt="sigmotoa" height="30" width="40" /></a>
-  <a href="https://discord.gg/wq9yfnqMyh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sigmotoa" height="30" width="40" /></a>
-</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sigmotoa&show_icons=true&locale=en" alt="sigmotoa" /></p>
+
 
 <!--
 **JuanDavid631/JuanDavid631** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

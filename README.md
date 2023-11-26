@@ -1,4 +1,4 @@
-# Hi, I'm Juan David Montoya Lesmes 👋💻
+# <h1>Hi, I'm Juan David Montoya Lesmes 👋💻</h1>
 
 <h2>
 I am a systems and computer engineer 👨‍💻 graduated from the Catholic University of Colombia, I have ample capacity to propose solutions to problems of practical orientation through the use of technologies, I adapt quickly to changes and the needs of the company, I am innovative, critical and with skills to lead software projects, I am in constant research of new tools that allow me to achieve the objectives proposed by the company. I excel in the detection and correction of faults and errors in both software and hardware. I have excellent assertive communication skills and teamwork.
